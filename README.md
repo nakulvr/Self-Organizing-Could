@@ -1,2 +1,2 @@
 # Self-Organizing-Could
-Java code for enabling a self organizing cloud
+Java code for a self organizing cloud (final year project)
